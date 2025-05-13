@@ -1,0 +1,3 @@
+🏟️ GUC Football Ticketing System – SQL Stored Procedures & Views
+
+This project is a database system for managing football match logistics using Microsoft SQL Server. It includes stored procedures, functions, and views for managing clubs, fans, stadiums, matches, and ticketing. Features include user and stadium management, match scheduling, fan registration, blocking/unblocking fans, viewing available matches, purchasing tickets, and processing hosting requests. Data retrieval is done using custom SQL views and functions. Developed as part of the Databases I course at the German University in Cairo (GUC) under Dr. Mervat Abouelkheir.
